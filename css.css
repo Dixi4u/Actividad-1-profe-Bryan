@@ -1,4 +1,9 @@
 *{
 
-    background-color: aquamarine;
+    background-color: rgb(79, 107, 98);
 }
+
+.form-label{
+    color: rgb(255, 145, 0);
+}
+
